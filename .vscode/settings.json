@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "stdlib.h": "c",
+        "GPIO.C": "c",
+        "tm4c123gh6pm.h": "c",
+        "stdint.h": "c",
+        "core_cm4.h":"c" 
+    }
+}
